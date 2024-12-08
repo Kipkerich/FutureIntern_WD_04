@@ -3,7 +3,7 @@
 A simple web-based calculator built with HTML, CSS, and JavaScript. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 # DEMO LINK
-Here of the demo
+https://kipkerich.github.io/FutureIntern_WD_04/
 
 # Recommended step by step guide
 sharathchandark on medium; https://medium.com/@sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-f88c264de03a
